@@ -122,14 +122,14 @@
         "style": "list",
         "category": "科技",
         "sites": [{
-            "title": "虎嗅网",
-            "url": "http://m.huxiu.com",
-            "description": "科技媒体",
+            "title": "数码之家",
+            "url": "https://www.mydigit.cn",
+            "description": "数码之家",
             "icon": "https://gw.alicdn.com/L1/723/1571821235/32/db/09/32db091aa7b586b903e50fff59c790d7.png"
         }, {
-            "title": "36kr",
-            "url": "36kr.com",
-            "description": "互联网创业资讯",
+            "title": "TVFix电视",
+            "url": "http://iptv.tvfix.org/",
+            "description": "电视直播",
             "icon": "https://gw.alicdn.com/L1/723/1571820958/35/e7/86/35e78686b02ffdd84d85024b2f5ea0cf.png"
         }, {
             "title": "少数派",
